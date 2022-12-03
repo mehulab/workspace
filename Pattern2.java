@@ -1,4 +1,6 @@
 //hello
+//hey how are you ?
+//fine 
 public class Pattern2 {
 
 	public static void main(String[] args) {
